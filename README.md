@@ -7,3 +7,5 @@ Each data folder contains .csv files used in analyses which includes all MAG and
 
 
 Viral Host Taxonomy folder contains code and host taxonomy per vOTU
+
+doi.org/10.5281/zenodo.8200991
